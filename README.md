@@ -1,6 +1,11 @@
 # Chocolate-Chip-Cookies
 Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthastewart.com/344840/soft-and-chewy-chocolate-chip-cookies"):
 
+### Clone the Galvanize Evangelist Repo
+### Make a branch
+### Push that branch and create
+### Push + Pull Request
+
 ##How to own this recipe
 - Click "Fork" in the top right corner of the page and it's yours :)
 
@@ -25,7 +30,8 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 - 2 1/4 cups all-purpose flour
 - 1/2 teaspoon baking soda
 - 2 cups (about 12 ounces) semisweet and/or milk chocolate chips
-- Lots of gluten!
+- Gallons of gluten!
+- Peanut butter too!
 
 
 ##Cooking Directions
